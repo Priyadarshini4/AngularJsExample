@@ -1,0 +1,5 @@
+F:\Projects\AngularJs\AngularJsExample\AngularJsExample\bin\AngularJsExample.dll
+F:\Projects\AngularJs\AngularJsExample\AngularJsExample\bin\AngularJsExample.pdb
+F:\Projects\AngularJs\AngularJsExample\AngularJsExample\obj\Debug\AngularJsExample.csprojResolveAssemblyReference.cache
+F:\Projects\AngularJs\AngularJsExample\AngularJsExample\obj\Debug\AngularJsExample.dll
+F:\Projects\AngularJs\AngularJsExample\AngularJsExample\obj\Debug\AngularJsExample.pdb
